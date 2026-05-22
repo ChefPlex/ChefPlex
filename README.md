@@ -36,6 +36,7 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 | [program-reporting-frameworks](../program-reporting-frameworks) | Executive reporting structures and investment frameworks |
 | [tpm-toolbox](../tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
 | [learning-notes](../learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
+| [ai-automations](../ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
 
 ---
 

@@ -31,12 +31,12 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 | Repo | What it is |
 |------|-----------|
-| [tpm-templates](../../tpm-templates) | PRD, RFC, ADR, and DACI templates used in real programs |
-| [security-program-playbooks](../../security-program-playbooks) | Runbooks and remediation frameworks for platform security |
-| [program-reporting-frameworks](../../program-reporting-frameworks) | Executive reporting structures and investment frameworks |
-| [tpm-toolbox](../../tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
-| [learning-notes](../../learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
-| [ai-automations](../../ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | PRD, RFC, ADR, and DACI templates used in real programs |
+| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Runbooks and remediation frameworks for platform security |
+| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Executive reporting structures and investment frameworks |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
+| [learning-notes](https://github.com/ChefPlex/learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
 
 ---
 

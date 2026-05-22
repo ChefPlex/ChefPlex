@@ -1,6 +1,6 @@
 # Eric White | PMP - CISM - ITIL - CSM
 
-**Director-level Technical Program Manager** - Platform Security & Infrastructure  
+**Director-level Technical Program Manager** -- Platform Security & Infrastructure  
 San Francisco Bay Area | edwhite@gmail.com | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
 ---
@@ -31,28 +31,28 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 | Repo | What it is |
 |------|-----------|
-| [tpm-templates](../tpm-templates) | PRD, RFC, ADR, and DACI templates used in real programs |
-| [security-program-playbooks](../security-program-playbooks) | Runbooks and remediation frameworks for platform security |
-| [program-reporting-frameworks](../program-reporting-frameworks) | Executive reporting structures and investment frameworks |
-| [tpm-toolbox](../tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
-| [learning-notes](../learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
-| [ai-automations](../ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
+| [tpm-templates](../../tpm-templates) | PRD, RFC, ADR, and DACI templates used in real programs |
+| [security-program-playbooks](../../security-program-playbooks) | Runbooks and remediation frameworks for platform security |
+| [program-reporting-frameworks](../../program-reporting-frameworks) | Executive reporting structures and investment frameworks |
+| [tpm-toolbox](../../tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
+| [learning-notes](../../learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
+| [ai-automations](../../ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
 
 ---
 
 ## Career Snapshot
 
-**Salesforce** - Director, TPM Platform Security *(2018-present)*
+**Salesforce** -- Director, TPM Platform Security *(2018-present)*
 - Drove encryption coverage from 10% to 80%+ across 100+ engineering teams
 - Led TLS 1.3 modernization eliminating legacy 1.0/1.1 across 100+ services
 - Delivered 20 programs on time against DSA compliance deadlines
 - Led team of 15 TPMs and engineers
 
-**Taos, an IBM Company** - Senior TPM / Practice Lead *(2011-2018)*
+**Taos, an IBM Company** -- Senior TPM / Practice Lead *(2011-2018)*
 - Managed $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Clients: Salesforce, City National Bank, UCSF, Dolby, Blue Shield
 
-**Restoration Hardware** - Manager, Technical Operations *(2011-2013)*
+**Restoration Hardware** -- Manager, Technical Operations *(2011-2013)*
 - Led infrastructure modernization and vendor management for retail tech stack
 
 ---

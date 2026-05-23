@@ -1,26 +1,31 @@
 # Eric White | PMP - CISM - ITIL - CSM
 
 **Director-level Technical Program Manager** - Platform Security & Infrastructure  
-San Francisco Bay Area | edwhite@gmail.com | [LinkedIn](https://www.linkedin.com/in/edwhite)
+San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
 ---
 
 ## About Me
 
-I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, and large-scale program execution. Currently at **Salesforce**, where I lead platform security programs spanning 100+ engineering teams across AWS and GCP -- think encryption modernization, PKI, TLS hardening, and HSM key lifecycle at enterprise scale.
+I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, and large-scale program execution. Currently at Salesforce, where I lead platform security programs spanning 100+ engineering teams across AWS and GCP - think encryption modernization, PKI, TLS hardening, and HSM key lifecycle at enterprise scale.
 
 I'm not a software engineer, but I speak the language fluently enough to challenge architectural decisions, write a mean runbook, and keep 45 engineers aligned across 10 time zones.
+
+The rest of the time: glass artist, home cook, wine person, cat herder.
+
+> *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
+> 
+> - Robert A. Heinlein
 
 ---
 
 ## What I Work On
 
 ```
-Platform Security     ->  Encryption-in-transit / at-rest, PKI, HSM, TLS modernization
-Program Management    ->  Cross-org delivery, OKRs, executive reporting, portfolio governance
-Cloud Infrastructure  ->  AWS, GCP, multi-cloud security and compliance
-Compliance & Risk     ->  HIPAA, PCI, SOX, DSA -- regulatory delivery at scale
-AI Security           ->  Emerging security programs for AI/ML platform initiatives
+Platform Security    -->  Encryption-in-transit / at-rest, PKI, HSM, TLS modernization
+Program Management   -->  Cross-org delivery, OKRs, executive reporting, portfolio governance
+Cloud Infrastructure -->  AWS, GCP, multi-cloud security and compliance
+AI Security          -->  Emerging security programs for AI/ML platform initiatives
 ```
 
 ---
@@ -38,28 +43,35 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
 
+And outside the TPM world:
+
+| Repo | What it is |
+|------|-----------|
+| [GlassART](https://github.com/ChefPlex/GlassART) | Glass art practice, Public Glass board work, and teaching materials on the business of being an artist |
+| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | A collection of AI-powered culinary guides |
+
 ---
 
 ## Career Snapshot
 
-**Salesforce** - Director, TPM Platform Security *(2018-present)*
+**Salesforce** - Director, TPM Platform Security (2018-present)
 - Drove encryption coverage from 10% to 80%+ across 100+ engineering teams
 - Led TLS 1.3 modernization eliminating legacy 1.0/1.1 across 100+ services
 - Delivered 20 programs on time against DSA compliance deadlines
-- Led team of 15 TPMs and engineers
+- Lead team of 15 TPMs and engineers
 
-**Taos, an IBM Company** - Senior TPM / Practice Lead *(2011-2018)*
+**Taos, an IBM Company** - Senior TPM / Practice Lead (2017-2018)
 - Managed $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Clients: Salesforce, City National Bank, UCSF, Dolby, Blue Shield
 
-**Restoration Hardware** - Manager, Technical Operations *(2011-2013)*
+**Restoration Hardware** - Manager, Technical Operations (2011-2013)
 - Led infrastructure modernization and vendor management for retail tech stack
 
 ---
 
 ## Certifications
 
-`CISM` &nbsp; `PMP` &nbsp; `GSEC` &nbsp; `ITIL` &nbsp; `CSM`
+CISM &nbsp; PMP &nbsp; GSEC &nbsp; ITIL &nbsp; CSM
 
 ---
 
@@ -71,7 +83,7 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 ---
 
-> "The job isn't to write the code. It's to make sure the right code gets written, by the right people, at the right time and that everyone knows why it matters."
+> *"The job isn't to write the code. It's to make sure the right code gets written, by the right people, at the right time and that everyone knows why it matters."*
 
 ---
 

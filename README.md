@@ -1,6 +1,6 @@
 # Eric White | PMP - CISM - ITIL - CSM
 
-**Director-level Technical Program Manager** -- Platform Security & Infrastructure  
+**Director-level Technical Program Manager** - Platform Security & Infrastructure  
 San Francisco Bay Area | edwhite@gmail.com | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
 ---
@@ -42,17 +42,17 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 ## Career Snapshot
 
-**Salesforce** -- Director, TPM Platform Security *(2018-present)*
+**Salesforce** - Director, TPM Platform Security *(2018-present)*
 - Drove encryption coverage from 10% to 80%+ across 100+ engineering teams
 - Led TLS 1.3 modernization eliminating legacy 1.0/1.1 across 100+ services
 - Delivered 20 programs on time against DSA compliance deadlines
 - Led team of 15 TPMs and engineers
 
-**Taos, an IBM Company** -- Senior TPM / Practice Lead *(2011-2018)*
+**Taos, an IBM Company** - Senior TPM / Practice Lead *(2011-2018)*
 - Managed $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Clients: Salesforce, City National Bank, UCSF, Dolby, Blue Shield
 
-**Restoration Hardware** -- Manager, Technical Operations *(2011-2013)*
+**Restoration Hardware** - Manager, Technical Operations *(2011-2013)*
 - Led infrastructure modernization and vendor management for retail tech stack
 
 ---
@@ -71,7 +71,7 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 ---
 
-> "The job isn't to write the code. It's to make sure the right code gets written, by the right people, at the right time -- and that everyone knows why it matters."
+> "The job isn't to write the code. It's to make sure the right code gets written, by the right people, at the right time and that everyone knows why it matters."
 
 ---
 

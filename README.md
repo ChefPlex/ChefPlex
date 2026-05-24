@@ -3,28 +3,25 @@
 **Director-level Technical Program Manager** - Platform Security & Infrastructure  
 San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
-> [!NOTE]
-> **Portfolio quality bar**
->
-> This account is a working portfolio of things I have built, taught, used, or am actively turning into something reusable.
->
-> Some of it is AI-assisted by design. That is part of the point. AI is useful for speed: drafting, structure, code, cleanup, and repeatable workflows. It is not a replacement for taste, judgment, domain knowledge, or deciding what is worth publishing.
->
-> The bar is simple: if it would not help someone do the work better, it should not be here.
-
 ---
 
-## About Me
+I am a Technical Program Manager working at the intersection of platform security, cloud infrastructure, compliance, and large-scale execution. Most of what I publish here is practical: templates, playbooks, reporting structures, notes, and AI-assisted tools that help teams make decisions, manage risk, and keep work from turning into theater.
 
-I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, and large-scale program execution. Currently at Salesforce, where I lead platform security programs spanning 100+ engineering teams across AWS and GCP - think encryption modernization, PKI, TLS hardening, and HSM key lifecycle at enterprise scale.
-
-I'm not a software engineer, but I speak the language fluently enough to challenge architectural decisions, write a mean runbook, and keep 45 engineers aligned across 10 time zones.
-
-The rest of the time: glass artist, home cook, wine person, cat herder.
+The professional side is TPM, security, reporting, and automation. The rest is glass, food, wine, teaching, and the occasional project that got out of hand in a useful direction.
 
 > *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
 >
 > - Robert A. Heinlein
+
+---
+
+## About This Account
+
+This is a working portfolio of things I have built, taught, used, or am actively turning into something reusable.
+
+Some of it is AI-assisted by design. That is part of the point. AI is useful for speed: drafting, structure, code, cleanup, and repeatable workflows. It is not a replacement for taste, judgment, domain knowledge, or deciding what is worth publishing.
+
+The bar is simple: if it would not help someone do the work better, it should not be here.
 
 ---
 
@@ -41,24 +38,22 @@ AI Security          -->  Emerging security programs for AI/ML platform initiati
 
 ## What You'll Find Here
 
-This repo is where I share TPM artifacts, templates, and tools I've built or refined in the field:
-
 | Repo | What it is |
 |------|-----------|
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Runbooks and remediation frameworks for platform security |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Executive reporting structures and investment frameworks |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and working tools for program execution |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, and examples with safety notes and human review checks |
 
 And outside the TPM world:
 
 | Repo | What it is |
 |------|-----------|
 | [GlassART](https://github.com/ChefPlex/GlassART) | Glass art practice, Public Glass board work, and teaching materials on the business of being an artist |
-| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional culinary guides for wine country - nine App Store apps, a self-updating web guide, built solo with AI tools and real domain knowledge |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Teaching materials, class notes, and talks built to make practical skills, science, and hands-on work easier to understand |
+| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | AI-assisted regional food and wine guides, including Sonoma Chef and the Food Wine Farms apps |
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Things I have taught, explained, built, demonstrated, or dragged into a room so people could understand them better |
 
 ---
 
@@ -68,7 +63,7 @@ And outside the TPM world:
 - Drove encryption coverage from 10% to 80%+ across 100+ engineering teams
 - Led TLS 1.3 modernization eliminating legacy 1.0/1.1 across 100+ services
 - Delivered 20 programs on time against DSA compliance deadlines
-- Lead a team of 15 engineers and TPMs
+- Led a team of 15 TPMs and engineers
 
 **Taos, an IBM Company** - Senior TPM / Practice Lead (2017-2018)
 - Managed $10M+ portfolio across HIPAA, PCI, and SOX programs

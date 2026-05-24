@@ -45,10 +45,10 @@ This repo is where I share TPM artifacts, templates, and tools I've built or ref
 
 | Repo | What it is |
 |------|-----------|
-| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | PRD, RFC, ADR, and DACI templates used in real programs |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Runbooks and remediation frameworks for platform security |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Executive reporting structures and investment frameworks |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight scripts for Jira automation, status reporting, metrics pulls |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and working tools for program execution |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | Ongoing notes on system design, distributed systems, and security engineering |
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-powered scripts, prompts, and workflows for TPM productivity and program management |
 
@@ -68,7 +68,7 @@ And outside the TPM world:
 - Drove encryption coverage from 10% to 80%+ across 100+ engineering teams
 - Led TLS 1.3 modernization eliminating legacy 1.0/1.1 across 100+ services
 - Delivered 20 programs on time against DSA compliance deadlines
-- Lead team of 15 TPMs and engineers
+- Lead a team of 15 engineers and TPMs
 
 **Taos, an IBM Company** - Senior TPM / Practice Lead (2017-2018)
 - Managed $10M+ portfolio across HIPAA, PCI, and SOX programs

@@ -3,6 +3,15 @@
 **Director-level Technical Program Manager** - Platform Security & Infrastructure  
 San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
+> [!NOTE]
+> **Portfolio quality bar**
+>
+> This account is a working portfolio of things I have built, taught, used, or am actively turning into something reusable.
+>
+> Some of it is AI-assisted by design. That is part of the point. AI is useful for speed: drafting, structure, code, cleanup, and repeatable workflows. It is not a replacement for taste, judgment, domain knowledge, or deciding what is worth publishing.
+>
+> The bar is simple: if it would not help someone do the work better, it should not be here.
+
 ---
 
 ## About Me

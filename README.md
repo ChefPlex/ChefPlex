@@ -49,8 +49,7 @@ And outside the TPM world:
 |------|-----------|
 | [GlassART](https://github.com/ChefPlex/GlassART) | Glass art practice, Public Glass board work, and teaching materials on the business of being an artist |
 | [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional culinary guides for wine country - nine App Store apps, a self-updating web guide, built solo with AI tools and real domain knowledge |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Class materials, talks, handouts, and practical teaching notes from kitchens, studios, community rooms, and other places where someone needed the thing explained clearly |
-
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Class materials and talks from cooking, science, and hands-on workshops, written for smart people learning something new |
 ---
 
 ## Career Snapshot

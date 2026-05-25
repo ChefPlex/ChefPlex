@@ -9,7 +9,7 @@ I'm a TPM who sits at the intersection of security engineering, cloud infrastruc
 
 I'm not a software engineer, but I speak the language fluently enough to challenge architectural decisions, write a mean runbook, and keep 45 engineers aligned across 10 time zones.
 
-The rest of the time: glass artist, home cook, wine person, cat herder.
+The rest of the time: glass artist, chef, wine person, cat herder.
 
 > *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
 >

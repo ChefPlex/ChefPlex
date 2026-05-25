@@ -20,6 +20,8 @@ The rest of the time: glass artist, chef, wine person, cat herder.
 >
 > Robert A. Heinlein
 
+The point is range: learn broadly, work competently across domains, and do not confuse narrow specialization with capability.
+
 ## About This Account
 
 This is a working portfolio of things I have built, taught, used, or am actively turning into something reusable.

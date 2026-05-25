@@ -5,9 +5,11 @@ San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [Linked
 
 ---
 
-I am a Technical Program Manager working at the intersection of platform security, cloud infrastructure, compliance, and large-scale execution. Most of what I publish here is practical: templates, playbooks, reporting structures, notes, and AI-assisted tools that help teams make decisions, manage risk, and keep work from turning into theater.
+I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, and large-scale program execution. Currently at Salesforce, where I lead platform security programs spanning 100+ engineering teams across AWS and GCP - think encryption modernization, PKI, TLS hardening, and HSM key lifecycle at enterprise scale.
 
-The professional side is TPM, security, reporting, and automation. The rest is glass, food, wine, teaching, and the occasional project that got out of hand in a useful direction.
+I'm not a software engineer, but I speak the language fluently enough to challenge architectural decisions, write a mean runbook, and keep 45 engineers aligned across 10 time zones.
+
+The rest of the time: glass artist, home cook, wine person, cat herder.
 
 > *A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects.*
 >
@@ -37,6 +39,8 @@ AI Security          -->  Emerging security programs for AI/ML platform initiati
 ---
 
 ## What You'll Find Here
+
+This repo is where I share TPM artifacts, templates, and tools I've built or refined in the field:
 
 | Repo | What it is |
 |------|-----------|

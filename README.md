@@ -73,7 +73,6 @@ Outside the TPM world:
 - Led TLS 1.3 modernization and legacy TLS 1.0/1.1 removal across 100+ services
 - Delivered 20 programs on time against Digital Services Act compliance deadlines
 - Led a team of 15 TPMs and engineers
-- Drove platform security programs across encryption, PKI, HSM lifecycle, cloud security, compliance, and enterprise-scale execution
 
 ### Taos, an IBM Company
 

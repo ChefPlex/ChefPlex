@@ -94,7 +94,7 @@ Outside the TPM world:
 
 ## Certifications
 
-CISM | PMP | GSEC | ITIL | CSM
+CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; GSEC &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM
 
 ## Currently Thinking About
 

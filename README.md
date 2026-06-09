@@ -47,12 +47,12 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 
 | Repo | What It Is |
 |---|---|
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
-| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution |
-| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
-| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
-| [learning-notes](https://github.com/ChefPlex/learning-notes) | Working notes on systems design, security, infrastructure, and TPM craft |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/ai-automations?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/ai-automations?style=flat-square) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
+| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/security-program-playbooks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/security-program-playbooks?style=flat-square) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-templates?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-templates?style=flat-square) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-toolbox?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-toolbox?style=flat-square) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
+| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/program-reporting-frameworks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/program-reporting-frameworks?style=flat-square) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
+| [learning-notes](https://github.com/ChefPlex/learning-notes) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/learning-notes?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/learning-notes?style=flat-square) | Working notes on systems design, security, infrastructure, and TPM craft |
 
 Outside the TPM world:
 

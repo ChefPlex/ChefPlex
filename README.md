@@ -45,23 +45,22 @@ AI Security          Emerging security programs for AI/ML platform initiatives
 
 This account is where I share TPM artifacts, templates, tools, examples, and working notes built or refined through real program work.
 
-| Repo | What It Is |
-|---|---|
-| [ai-automations](https://github.com/ChefPlex/ai-automations) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/ai-automations?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/ai-automations?style=flat-square) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
-| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/security-program-playbooks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/security-program-playbooks?style=flat-square) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution |
-| [tpm-templates](https://github.com/ChefPlex/tpm-templates) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-templates?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-templates?style=flat-square) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-toolbox?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-toolbox?style=flat-square) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
-| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/program-reporting-frameworks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/program-reporting-frameworks?style=flat-square) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
-| [learning-notes](https://github.com/ChefPlex/learning-notes) ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/learning-notes?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/learning-notes?style=flat-square) | Working notes on systems design, security, infrastructure, and TPM craft |
+| Repo | Status | What It Is |
+|---|---|---|
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/ai-automations?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/ai-automations?style=flat-square) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
+| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/security-program-playbooks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/security-program-playbooks?style=flat-square) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-templates?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-templates?style=flat-square) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/tpm-toolbox?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/tpm-toolbox?style=flat-square) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
+| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/program-reporting-frameworks?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/program-reporting-frameworks?style=flat-square) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
+| [learning-notes](https://github.com/ChefPlex/learning-notes) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/learning-notes?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/learning-notes?style=flat-square) | Working notes on systems design, security, infrastructure, and TPM craft |
 
 Outside the TPM world:
 
-| Repo | What It Is |
-|---|---|
-| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | AI-assisted regional food and wine guides built from local knowledge, solo shipping, and automated weekly updates |
-| [GlassART](https://github.com/ChefPlex/GlassART) | Glassblowing notes, teaching resources, artist business tools, and studio-practice materials |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Teaching materials, demos, explanations, and workshops built to make technical ideas easier to understand |
-
+| Repo | Status | What It Is |
+|---|---|---|
+| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/food-wine-farms?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/food-wine-farms?style=flat-square) | AI-assisted regional food and wine guides built from local knowledge, solo shipping, and automated weekly updates |
+| [GlassART](https://github.com/ChefPlex/GlassART) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/GlassART?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/GlassART?style=flat-square) | Glassblowing notes, teaching resources, artist business tools, and studio-practice materials |
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | ![Last Commit](https://img.shields.io/github/last-commit/ChefPlex/teaching-notes?style=flat-square&label=updated&color=blue) ![Stars](https://img.shields.io/github/stars/ChefPlex/teaching-notes?style=flat-square) | Teaching materials, demos, explanations, and workshops built to make technical ideas easier to understand |
 ## Career Snapshot
 
 ### Salesforce

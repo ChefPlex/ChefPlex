@@ -60,7 +60,16 @@ Outside the TPM world:
 |---|---|
 | [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | AI-assisted regional food and wine guides built from local knowledge, solo shipping, and automated weekly updates |
 | [GlassART](https://github.com/ChefPlex/GlassART) | Glassblowing notes, teaching resources, artist business tools, and studio-practice materials |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Teaching materials, demos, explanations, and workshops built to make technical ideas easier to understand |## Career Snapshot
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Teaching materials, demos, explanations, and workshops built to make technical ideas easier to understand |
+
+## Career Snapshot
+
+### Talamel Health Technologies
+
+**VP of Technical Execution and Innovation (Fractional)**  
+June 2026 to present
+
+- Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
 
 ### Salesforce
 
@@ -75,7 +84,7 @@ Outside the TPM world:
 ### Taos, an IBM Company
 
 **Senior TPM / Practice Lead**  
-2017 to 2018
+2011 to 2018
 
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Supported clients including Salesforce, City National Bank, UCSF, Dolby, and Blue Shield

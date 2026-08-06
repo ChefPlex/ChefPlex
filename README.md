@@ -6,7 +6,7 @@ San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [Linked
 
 I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, compliance, and large-scale program execution.
 
-Currently at Salesforce, where I lead platform security programs spanning 100+ engineering teams across AWS and GCP. That work has included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real.
+I lead platform security programs spanning 100+ engineering teams across AWS and GCP. That work has included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real.
 
 I'm not a software engineer. I do speak the language fluently enough to challenge architectural decisions, write a useful runbook, ask the awkward risk question, and keep engineering, security, compliance, and leadership pointed at the same outcome.
 

@@ -74,7 +74,7 @@ June 2026 to present
 ### Salesforce
 
 **Director, TPM Platform Security**  
-2018 to present
+2018 to August 2026
 
 - Drove encryption coverage from roughly 10 percent to 80 percent plus across 100+ engineering teams
 - Led TLS 1.3 modernization and legacy TLS 1.0/1.1 removal across 100+ services

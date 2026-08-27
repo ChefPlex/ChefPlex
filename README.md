@@ -68,7 +68,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 
 | Repo | What It Is |
 |---|---|
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
 | [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |

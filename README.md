@@ -32,6 +32,27 @@ AI is useful for speed: drafting, structure, code, cleanup, synthesis, and repea
 
 The bar is simple: if it would not help someone do the work better, it should not be here.
 
+## How I Actually Work
+
+This is the part that does not fit on a resume, so it lives here.
+
+I run my own agent stack. Not a chatbot I ask things, a set of scheduled jobs that produce a morning briefing, triage six inboxes, stage drafts I review before anything sends, and roll the week up on Sundays. Every run logs cost, duration, token usage, step count, and a failure category into SQLite, because "did it run" and "was it any good" are different questions and only one of them is easy.
+
+The interesting part is not the agents. It is the checking around them.
+
+Anything an agent generates for me passes deterministic checks before I trust it. Banned phrases, house style, whether a claim can be traced to a source, whether a PDF actually parses the way an applicant tracking system will read it. Those checks are plain code with tests, not more AI. When an AI-assisted workflow goes wrong it usually goes wrong confidently, and a second model agreeing with the first is not verification.
+
+A few working rules that came out of getting this wrong:
+
+- **A write path that works is not evidence the read path does.** I have found several controls that were documented, believed live, and doing nothing. A checkbox in a task list is not evidence either half works.
+- **A check that has never caught anything is a check nobody has verified.** Three of my columns were logging perfectly into a table nothing wrote to.
+- **When a claim will not settle, check whether it is true before arguing about whether it is allowed.** Cost me three days once, on a line that turned out to describe something that never happened.
+- **The rule and the mechanism both existing does not mean they cover the same ground.** I had a style rule enforced on my resume for months while the repos strangers actually read went unchecked.
+
+Same principle as the program work: the plan is not the job, making sure the right thing actually happens is the job. Agents just made it cheaper to find out when it did not.
+
+The stack itself is private, since it is wired into my calendar, mail, and finances. The reusable parts get published here.
+
 ## What I Work On
 
 ```text
@@ -48,8 +69,8 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 | Repo | What It Is |
 |---|---|
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts |
-| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution |
-| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work |
+| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
 | [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | Working notes on systems design, security, infrastructure, and TPM craft |
@@ -70,6 +91,9 @@ Outside the TPM world:
 June 2026 to present
 
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
+- Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor
+- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), surfacing 21 confirmed and 5 plausible issues
+- Built a 19-role, 8-phase multi-agent AI delivery framework with tier-selection logic and full audit trails, used to ship real production features
 
 ### Salesforce
 
@@ -78,8 +102,10 @@ June 2026 to present
 
 - Drove encryption coverage from roughly 10 percent to 80 percent plus across 100+ engineering teams
 - Led TLS 1.3 modernization and legacy TLS 1.0/1.1 removal across 100+ services
-- Delivered 20 programs on time against Digital Services Act compliance deadlines
-- Led a team of 15 TPMs and engineers
+- Delivered 20 programs on time against regulatory deadlines, including the EU Digital Services Act go-live
+- Cut critical-vulnerability MTTR from roughly 30 days to roughly 10 across 300+ platform services
+- Ran secure key lifecycle programs across enterprise HSM infrastructure supporting 150,000+ organizations
+- Coordinated and mentored TPMs across the org, and was the escalation point for a major enterprise customer's security inquiries on a program that recovered an at-risk renewal
 
 ### Taos, an IBM Company
 
@@ -100,11 +126,13 @@ June 2026 to present
 
 ## Certifications
 
-CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; GSEC &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM
+CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM &nbsp;|&nbsp; SANS LDR553 (Cyber Incident Management)
 
 ## Currently Thinking About
 
 - How AI/ML security programs are maturing, and where they are still chaotic
+- Retrieval systems as enterprise programs, and why the permission model is the architecture decision everyone defers
+- How to evaluate an agent's output when there is no gold-standard answer to compare it against
 - The TPM role in platform reliability versus pure delivery execution
 - Making cryptographic compliance tractable for non-security engineering teams
 - How to use AI to speed up program work without outsourcing judgment

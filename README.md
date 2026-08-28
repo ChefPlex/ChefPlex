@@ -123,6 +123,37 @@ June 2026 to present
 
 - Led infrastructure modernization and vendor management for the retail technology stack
 - Managed operational systems where reliability, cost, and business continuity all mattered
+- Client engagement while at Taos, which is why the dates overlap
+
+### Safeway
+
+**Technical Project Manager 4**  
+2009 to 2011
+
+- Delivered a $2M+ data center storage modernization across SAN infrastructure and fabric upgrades (Brocade, EMC VMAX/VPLEX) in two data centers
+- Delivered $1.5M in enterprise network upgrades supporting a 1,100-store electronic pharmacy rollout
+- Integrated Safeway.com infrastructure into the primary and disaster-recovery data centers
+
+### Bar Association of San Francisco
+
+**Director of Information Technology**  
+2005 to 2009
+
+- Led enterprise IT operations, infrastructure architecture, vendor management, and strategic technology planning, managing a team of 3
+
+### Theory and Practice
+
+**Owner**  
+2002 to 2005
+
+- Delivered enterprise networking, data architecture, and e-commerce technology programs for Fortune 500 and emerging organizations, managing a team of 10
+
+### Red Herring
+
+**Information Technology Manager**  
+2000 to 2001
+
+- Led a team of 4 that designed, built, and supported an intranet/extranet portal (Plumtree) and enterprise application integration programs serving employees and customers, integrating legacy and third-party data sources behind it
 
 ## Certifications
 

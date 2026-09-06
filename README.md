@@ -92,8 +92,8 @@ June 2026 to present
 
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
 - Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor
-- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), surfacing 21 confirmed and 5 plausible issues
-- Built a 19-role, 8-phase multi-agent AI delivery framework with tier-selection logic and full audit trails, used to ship real production features
+- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), prioritizing the top defects for remediation
+- Built a 19-role, 8-phase multi-agent AI delivery framework with tier-selection logic and full audit trails, whose QA roles audit traceability across three systems
 
 ### Salesforce
 

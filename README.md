@@ -68,20 +68,20 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 
 | Repo | What It Is |
 |---|---|
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | AI-assisted TPM prompts, workflows, examples, and review checks for safer program artifacts. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
-| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | Security TPM guides for intake, compliance triage, evidence planning, and cross-team execution. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
-| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | Program charters, RFC/ADR templates, RAID guides, communication plans, and lifecycle tools from real TPM work. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | Lightweight TPM trackers, checklists, RAID logs, and AI-assisted workflows for program execution |
-| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | Status, steering committee, lessons-learned, and investment frameworks for honest program reporting |
-| [learning-notes](https://github.com/ChefPlex/learning-notes) | Working notes on systems design, security, infrastructure, and TPM craft |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
+| [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | What I'd hand a TPM taking over an encryption or compliance program in their first week. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
+| [tpm-templates](https://github.com/ChefPlex/tpm-templates) | The documents a program actually needs, with notes on how each one usually fails. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The things I kept using after the program ended. Includes the Slack crawler |
+| [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
+| [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 
 Outside the TPM world:
 
 | Repo | What It Is |
 |---|---|
-| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | AI-assisted regional food and wine guides built from local knowledge, solo shipping, and automated weekly updates |
-| [GlassART](https://github.com/ChefPlex/GlassART) | Glassblowing notes, teaching resources, artist business tools, and studio-practice materials |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Teaching materials, demos, explanations, and workshops built to make technical ideas easier to understand |
+| [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional food and wine guides, built and shipped solo. Chef-curated, not scraped |
+| [GlassART](https://github.com/ChefPlex/GlassART) | The shop table at Public Glass, written down. The finished work is at artglasssf.com |
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living. Slides, demos, and what actually landed |
 
 ## Career Snapshot
 

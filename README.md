@@ -51,7 +51,7 @@ A few working rules that came out of getting this wrong:
 
 Same principle as the program work: the plan is not the job, making sure the right thing actually happens is the job. Agents just made it cheaper to find out when it did not.
 
-The stack itself is private, since it is wired into my calendar, mail, and finances. The reusable parts get published here.
+The stack itself is private, since it is wired into my calendar, mail, and finances. The reusable parts get published here. Three of those checks are in [agent-guardrails](https://github.com/ChefPlex/agent-guardrails), including the one that found its own blind spot: a prompt-injection screen that had been running on seven inboxes for fifteen days without ever executing, because the call site was wrong and a bare `except` swallowed it. The detector was fine. Nothing was checking the checker.
 
 ## What I Work On
 
@@ -73,6 +73,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | The documents a program actually needs, with notes on how each one usually fails. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
 | [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The things I kept using after the program ended. Includes the Slack crawler |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
+| [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection tripwire that says plainly it is a tripwire and not a defense, a way to catch what a coverage check never counted, and an eval runner that reports the spread instead of one number |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 
 Outside the TPM world:

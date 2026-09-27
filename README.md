@@ -1,7 +1,7 @@
 # Eric White | PMP | CISM | ITIL | CSM
 
 **Director-level Technical Program Manager**  
-Platform Security | Infrastructure | Compliance  
+Platform Security | AI Governance | Infrastructure | Compliance  
 San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
 I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, compliance, and large-scale program execution.
@@ -36,7 +36,7 @@ The bar is simple: if it would not help someone do the work better, it should no
 
 This is the part that does not fit on a resume, so it lives here.
 
-I run my own agent stack. Not a chatbot I ask things, a set of scheduled jobs that produce a morning briefing, triage six inboxes, stage drafts I review before anything sends, and roll the week up on Sundays. Every run logs cost, duration, token usage, step count, and a failure category into SQLite, because "did it run" and "was it any good" are different questions and only one of them is easy.
+I run my own agent stack. Not a chatbot I ask things, a set of scheduled jobs that produce a morning briefing, triage seven inboxes, stage drafts I review before anything sends, and roll the week up on Sundays. Every run logs cost, duration, token usage, step count, and a failure category into SQLite, because "did it run" and "was it any good" are different questions and only one of them is easy.
 
 The interesting part is not the agents. It is the checking around them.
 
@@ -51,7 +51,7 @@ A few working rules that came out of getting this wrong:
 
 Same principle as the program work: the plan is not the job, making sure the right thing actually happens is the job. Agents just made it cheaper to find out when it did not.
 
-The stack itself is private, since it is wired into my calendar, mail, and finances. The reusable parts get published here. Three of those checks are in [agent-guardrails](https://github.com/ChefPlex/agent-guardrails), including the one that found its own blind spot: a prompt-injection screen that had been running on seven inboxes for fifteen days without ever executing, because the call site was wrong and a bare `except` swallowed it. The detector was fine. Nothing was checking the checker.
+The stack itself is private, since it is wired into my calendar, mail, and finances. The reusable parts get published here. Three of those checks are in [agent-guardrails](https://github.com/ChefPlex/agent-guardrails).
 
 ## What I Work On
 
@@ -68,7 +68,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 
 | Repo | What It Is |
 |---|---|
-| [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection tripwire that says plainly it is a tripwire and not a defense, a way to catch what a coverage check never counted, and an eval runner that reports the spread instead of one number |
+| [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and an eval runner that reports the spread instead of one number |
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
@@ -93,20 +93,22 @@ June 2026 to present
 
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
 - Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor
-- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), prioritizing the top defects for remediation
-- Built a 19-role, 8-phase multi-agent AI delivery framework with tier-selection logic and full audit trails, whose QA roles audit traceability across three systems
+- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA)
+- Independently built a 19-role, 8-phase multi-agent AI software delivery framework with tier-selection logic and full audit trails, and deployed it at the startup, where its QA roles audit requirements-to-code traceability across three systems
 
 ### Salesforce
 
-**Director, TPM Platform Security**  
-2018 to August 2026
+**Director, Technical Program Management**  
+April 2018 to August 2026
 
-- Drove encryption coverage from roughly 10 percent to 80 percent plus across 100+ engineering teams
-- Led TLS 1.3 modernization and legacy TLS 1.0/1.1 removal across 100+ services
-- Delivered 20 programs on time against regulatory deadlines, including the EU Digital Services Act go-live
-- Cut critical-vulnerability MTTR from roughly 30 days to roughly 10 across 300+ platform services
-- Ran secure key lifecycle programs across enterprise HSM infrastructure supporting 150,000+ organizations
-- Coordinated and mentored TPMs across the org, and was the escalation point for a major enterprise customer's security inquiries on a program that recovered an at-risk renewal
+- Drove platform-wide encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ distributed services
+- Led TLS 1.3 modernization, retiring 90% of legacy TLS 1.0/1.1 endpoints across 100+ services
+- Ran Platform Security's program governance across 20 programs, 100+ engineering teams and 300+ distributed services, coordinated without direct authority
+- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline
+- Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services
+- Ran certificate issuance and secure key lifecycle programs on enterprise HSM infrastructure for a global customer base of 150,000+ organizations
+- Mentored and onboarded 8 to 10 technical program managers across Salesforce
+- Recovered an at-risk contract renewal with a major enterprise customer as the escalation point for their security inquiries. The customer renewed
 
 ### Taos, an IBM Company
 
@@ -158,7 +160,11 @@ June 2026 to present
 
 ## Certifications
 
-CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM &nbsp;|&nbsp; SANS LDR553 (Cyber Incident Management)
+CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM
+
+## Training
+
+SANS LDR553, Cyber Incident Management ([course notes](https://github.com/ChefPlex/learning-notes/blob/main/sans-ldr553-course-notes.md))
 
 ## Currently Thinking About
 

@@ -6,7 +6,7 @@ San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [Linked
 
 I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, compliance, and large-scale program execution.
 
-I led platform security programs spanning 100+ engineering teams across AWS and GCP. That work included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real.
+I led platform security programs spanning 100+ engineering teams across AWS and GCP. That work included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real. Before that, more than ten years of infrastructure delivery: data centers, server and storage migrations, and network rollouts.
 
 I'm not a software engineer. I do speak the language fluently enough to challenge architectural decisions, write a useful runbook, ask the awkward risk question, and keep engineering, security, compliance, and leadership pointed at the same outcome.
 
@@ -69,7 +69,7 @@ Trust & Compliance   SOC 2, HIPAA, EU Digital Services Act, Election Support
 This account is where I share TPM artifacts, templates, tools, examples, and working notes built or refined through real program work.
 
 | Repo | What It Is |
-|---|---|
+|:---|:---|
 | [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and a wrapper around an eval runner (promptfoo) that reports the spread instead of one number |
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
@@ -82,7 +82,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 Outside the TPM world:
 
 | Repo | What It Is |
-|---|---|
+|:---|:---|
 | [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional food and wine guides, built and shipped solo. Chef-curated, not scraped |
 | [GlassART](https://github.com/ChefPlex/GlassART) | The shop table at Public Glass, written down. The finished work is at artglasssf.com |
 | [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living. Slides, handouts, and what actually landed |
@@ -108,6 +108,7 @@ April 2018 to August 2026
 - Led TLS 1.3 modernization, retiring 90% of legacy TLS 1.0/1.1 endpoints across 100+ services
 - Ran Platform Security's program governance across 20 programs, 100+ engineering teams and 300+ distributed services, coordinated without direct authority
 - Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline
+- Ran Election Support readiness programs across several federal, state and international election cycles
 - Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services
 - Ran certificate issuance and secure key lifecycle programs on enterprise HSM infrastructure for a global customer base of 150,000+ organizations
 - Mentored and onboarded 8 to 10 technical program managers across Salesforce
@@ -118,6 +119,7 @@ April 2018 to August 2026
 **Senior TPM / Practice Lead**  
 2011 to 2018
 
+- Led the TPM practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Supported clients including Salesforce, City National Bank, UCSF, Dolby, and Blue Shield
 - Led infrastructure, compliance, and security-oriented delivery work across client environments

@@ -119,7 +119,7 @@ April 2018 to August 2026
 **Senior Technical Program Manager (TPM) / Practice Lead**  
 2011 to 2018
 
-- Led the TPM practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
+- Led the Technical Program Manager (TPM) practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
 - Supported clients including Salesforce, City National Bank, UCSF, Dolby, and Blue Shield
 - Led infrastructure, compliance, and security-oriented delivery work across client environments

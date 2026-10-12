@@ -116,7 +116,7 @@ April 2018 to August 2026
 
 ### Taos, an IBM Company
 
-**Senior TPM / Practice Lead**  
+**Senior Technical Program Manager (TPM) / Practice Lead**  
 2011 to 2018
 
 - Led the TPM practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path

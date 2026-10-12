@@ -56,10 +56,12 @@ The stack itself is private, since it is wired into my calendar, mail, and finan
 ## What I Work On
 
 ```text
-Platform Security    Encryption-in-transit, encryption-at-rest, PKI, HSM, TLS modernization
-Program Management   Cross-org delivery, OKRs, executive reporting, portfolio governance
-Cloud Infrastructure AWS, GCP, multi-cloud security and compliance
-AI Security          Emerging security programs for AI/ML platform initiatives
+Program Management   Building the TPM function, cross-org delivery across 100+ teams, executive reporting, portfolio governance
+Infrastructure       Data center and site build-out, server and storage migration, network rollouts, Active Directory and LDAP
+Cloud & Platform     AWS, GCP, multi-cloud security, platform adoption and enablement
+Platform Security    Encryption in transit and at rest, PKI, HSM, TLS modernization
+AI                   AI readiness and governance programs, hands-on AI-native delivery and automation
+Trust & Compliance   SOC 2, HIPAA, EU Digital Services Act, Election Support
 ```
 
 ## What You'll Find Here

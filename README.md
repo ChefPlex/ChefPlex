@@ -45,7 +45,7 @@ Anything an agent generates for me passes deterministic checks before I trust it
 A few working rules that came out of getting this wrong:
 
 - **A write path that works is not evidence the read path does.** I have found several controls that were documented, believed live, and doing nothing. A checkbox in a task list is not evidence either half works.
-- **A check that has never caught anything is a check nobody has verified.** Three of my columns were logging perfectly into a table nothing wrote to.
+- **A check that has never caught anything is a check nobody has verified.** Three of my columns were read faithfully every day from a table nothing ever wrote to, so the check on them never once failed.
 - **When a claim will not settle, check whether it is true before arguing about whether it is allowed.** Cost me three days once, on a line that turned out to describe something that never happened.
 - **The rule and the mechanism both existing does not mean they cover the same ground.** I had a style rule enforced on my resume for months while the repos strangers actually read went unchecked.
 

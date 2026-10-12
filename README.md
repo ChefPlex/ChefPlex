@@ -1,6 +1,6 @@
 # Eric White | PMP | CISM | ITIL | CSM
 
-**Director-level Technical Program Manager**  
+**Director-level Technical Program Manager (TPM)**  
 Platform Security | AI Governance | Infrastructure | Compliance  
 San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 

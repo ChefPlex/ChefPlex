@@ -68,7 +68,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 
 | Repo | What It Is |
 |---|---|
-| [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and an eval runner that reports the spread instead of one number |
+| [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and a wrapper around an eval runner (promptfoo) that reports the spread instead of one number |
 | [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
@@ -82,7 +82,7 @@ Outside the TPM world:
 |---|---|
 | [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional food and wine guides, built and shipped solo. Chef-curated, not scraped |
 | [GlassART](https://github.com/ChefPlex/GlassART) | The shop table at Public Glass, written down. The finished work is at artglasssf.com |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living. Slides, demos, and what actually landed |
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living. Slides, handouts, and what actually landed |
 
 ## Career Snapshot
 

@@ -75,7 +75,6 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | What I'd hand a TPM taking over an encryption or compliance program in their first week. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
-| [tpm-lab](https://github.com/ChefPlex/tpm-lab) | Models in progress, research first, then a charter, then the plan. Now: a post-quantum cryptography migration and a PMO turnaround |
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | The documents a program actually needs, with notes on how each one usually fails. Includes the [enterprise RAG program](https://github.com/ChefPlex/tpm-templates/tree/main/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
 | [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The things I kept using after the program ended. Includes the Slack crawler |
 
@@ -178,7 +177,7 @@ SANS LDR553, Cyber Incident Management ([course notes](https://github.com/ChefPl
 - How to evaluate an agent's output when there is no gold-standard answer to compare it against
 - The TPM role in platform reliability versus pure delivery execution
 - Making cryptographic compliance tractable for non-security engineering teams
-- How to run the post-quantum migration across a very large enterprise, and how to turn around a PMO a company does not value ([tpm-lab](https://github.com/ChefPlex/tpm-lab))
+- How to run the post-quantum migration across a very large enterprise, and how to turn around a PMO a company does not value
 - How to use AI to speed up program work without outsourcing judgment
 - How to build tools that people actually use when the program is messy
 

@@ -124,18 +124,9 @@ April 2018 to August 2026
 
 - Led the Technical Program Manager (TPM) practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
-- Supported clients including Salesforce, City National Bank, UCSF, Dolby, and Blue Shield
+- Supported clients including Salesforce, City National Bank, UCSF, Dolby, Restoration Hardware, and Blue Shield
 - Led infrastructure, compliance, and security-oriented delivery work across client environments
-
-### Restoration Hardware
-
-**IT Operations Manager**  
-2011 to 2013
-
-- Directed enterprise technical operations across infrastructure, enterprise applications, and security programs, managing a team of 5
-- Led infrastructure modernization and vendor management for the retail technology stack
-- Managed operational systems where reliability, cost, and business continuity all mattered
-- Client engagement while at Taos, which is why the dates overlap
+- Hired from the engagement by Restoration Hardware as IT Operations Manager (2011 to 2013), directing technical operations across infrastructure, enterprise applications and security and managing a team of 5, then returned to Taos
 
 ### Safeway
 

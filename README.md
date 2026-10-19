@@ -156,7 +156,7 @@ April 2018 to August 2026
 ### Theory and Practice
 
 **Owner**  
-2003 to 2005
+2002 to 2005
 
 - Delivered enterprise networking, data architecture, and e-commerce technology programs for Fortune 500 and emerging organizations, managing a team of 10
 

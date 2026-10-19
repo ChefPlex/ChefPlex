@@ -71,7 +71,7 @@ This account is where I share TPM artifacts, templates, tools, examples, and wor
 | Repo | What It Is |
 |:---|:---|
 | [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and a wrapper around an eval runner (promptfoo) that reports the spread instead of one number |
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier execution model for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier AI execution maturity model, from human-only to AI-only, for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | What I'd hand a TPM taking over an encryption or compliance program in their first week. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
@@ -94,8 +94,8 @@ Outside the TPM world:
 June 2026 to present
 
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
-- Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor
-- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA)
+- Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor: SOC 2 went from scoping to a signed Type I report and a delivered Type II attestation, and a stalled HIPAA effort that had no owner was recovered and completed
+- Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA). Its top-priority defects were later confirmed independently by the external audit
 - Independently built a 19-role, 8-phase multi-agent AI software delivery framework with tier-selection logic and full audit trails, and deployed it at the startup, where its QA roles audit requirements-to-code traceability across three systems
 
 ### Salesforce
@@ -106,8 +106,11 @@ April 2018 to August 2026
 - Drove platform-wide encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ distributed services
 - Led TLS 1.3 modernization, retiring 90% of legacy TLS 1.0/1.1 endpoints across 100+ services
 - Ran Platform Security's program governance across 20 programs, 100+ engineering teams and 300+ distributed services, coordinated without direct authority
-- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline
-- Ran Election Support readiness programs across several federal, state and international election cycles
+- Established program management from the ground up in the cryptography group, which had none, and moved it to on-time delivery within 6 months
+- Defined the TPM operating model adopted across 10+ engineering orgs, covering intake, status, risk, dependency and escalation
+- Drove email domain verification controls with a very small engineering team, owning the customer communication needed to land a required control on an existing customer base, highest-risk accounts first
+- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type and reporting to the board of directors
+- Ran Election Support readiness programs across several federal and international election cycles
 - Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services
 - Ran certificate issuance and secure key lifecycle programs on enterprise HSM infrastructure for a global customer base of 150,000+ organizations
 - Mentored and onboarded 8 to 10 technical program managers across Salesforce
@@ -125,9 +128,10 @@ April 2018 to August 2026
 
 ### Restoration Hardware
 
-**Manager, Technical Operations**  
+**IT Operations Manager**  
 2011 to 2013
 
+- Directed enterprise technical operations across infrastructure, enterprise applications, and security programs, managing a team of 5
 - Led infrastructure modernization and vendor management for the retail technology stack
 - Managed operational systems where reliability, cost, and business continuity all mattered
 - Client engagement while at Taos, which is why the dates overlap
@@ -151,7 +155,7 @@ April 2018 to August 2026
 ### Theory and Practice
 
 **Owner**  
-2002 to 2005
+2003 to 2005
 
 - Delivered enterprise networking, data architecture, and e-commerce technology programs for Fortune 500 and emerging organizations, managing a team of 10
 

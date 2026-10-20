@@ -129,12 +129,12 @@ June 2026 to present
 April 2018 to August 2026
 
 - Drove platform-wide encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ distributed services
-- Led TLS 1.3 modernization, retiring 90% of legacy TLS 1.0/1.1 endpoints across 100+ services
+- Led TLS 1.3 modernization in two sequenced workstreams, retiring 90% of legacy TLS 1.0/1.1 endpoints across 100+ services
 - Ran Platform Security's program governance across 20 programs, 100+ engineering teams and 300+ distributed services, coordinated without direct authority
 - Established program management from the ground up in the cryptography group, which had none, and moved it to on-time delivery within 6 months
 - Defined the TPM operating model adopted across 10+ engineering orgs, covering intake, status, risk, dependency and escalation
 - Drove domain verification controls with a very small engineering team, owning the customer communication needed to land a required control on an existing customer base, highest-risk accounts first
-- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type and reporting to the board of directors
+- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type, owning transparency reporting to the EU, and reporting to the board of directors
 - Ran Election Support readiness programs across several federal and international election cycles
 - Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services
 - Ran certificate issuance and secure key lifecycle programs on enterprise HSM infrastructure for a global customer base of 150,000+ organizations
@@ -148,13 +148,15 @@ April 2018 to August 2026
 
 - Led the Technical Program Manager (TPM) practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
-- Supported clients including Salesforce, City National Bank, UCSF, Dolby, Restoration Hardware, and Blue Shield
+- Ran a two-year HIPAA and PCI compliance program for City National Bank, to the client's own release calendar and change control
+- Supported clients including Salesforce, City National Bank, UCSF, Dolby, Restoration Hardware, and Blue Shield, and owned the dates without owning any of the orgs: each client ran its own release calendar, change control and definition of done
+- Security Lead and Project Manager at Kabam (2011): baselined technical operations first, then ran a whole-company security review as a program, wrote the security policy and a 22-page incident response plan, and moved www.kabam.com to HTTPS
 - Led infrastructure, compliance, and security-oriented delivery work across client environments
 - Hired from the engagement by Restoration Hardware as IT Operations Manager (2011 to 2013), directing technical operations across infrastructure, enterprise applications and security and managing a team of 5, then returned to Taos
 
 ### Safeway
 
-**Technical Project Manager 4**  
+**Senior Technical Project Manager**  
 2009 to 2011
 
 - Delivered a $2M+ data center storage modernization across SAN infrastructure and fabric upgrades (Brocade, EMC VMAX/VPLEX) in two data centers

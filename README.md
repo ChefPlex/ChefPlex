@@ -18,7 +18,7 @@ San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [Linked
 - [Lessons from large-scale encryption programs](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md): what actually stalled a 300-service program, and what moved it
 - [Building program management where there was none](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md): the cryptography group, from no process to on-time delivery
 - [Rescuing work that is off track](https://github.com/ChefPlex/tpm-templates/blob/main/rescuing-work-that-is-off-track.md): baseline, negotiate, rebaseline
-- [Building the TPM function](https://github.com/ChefPlex/tpm-templates/blob/main/building-the-tpm-function.md): hiring, onboarding and running a TPM team
+- [Building the TPM function](https://github.com/ChefPlex/tpm-templates/blob/main/building-the-tpm-function.md): hiring and placing your first TPMs
 - [Program status reporting framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/program-status-reporting-framework.md): status an executive can act on
 - [agent-guardrails](https://github.com/ChefPlex/agent-guardrails): three checks for AI agent workflows, and what each cannot catch
 - [**I need to…**](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md): a reading path for your situation, across every repo
@@ -119,7 +119,7 @@ Outside the TPM world:
 June 2026 to present
 
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
-- Own parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor: took over a SOC 2 Type I already under way and carried it to a signed report, ran the Type II observation window from its June 1 start to a completed audit in September and a delivered attestation, and recovered and completed a stalled HIPAA effort that had no owner
+- Ran parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor: took over a SOC 2 Type I already under way and carried it to a signed report, ran the Type II observation window from its June 1 start to a completed audit in September and a delivered attestation, and recovered and completed a stalled HIPAA effort that had no owner
 - Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA). Its top-priority defects were later confirmed independently by the external audit
 - Independently built a 19-role, 8-phase multi-agent AI software delivery framework with tier-selection logic and full audit trails; its QA roles are in use at the startup, auditing requirements-to-code traceability across three systems
 

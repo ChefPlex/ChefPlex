@@ -133,7 +133,7 @@ April 2018 to August 2026
 - Ran Platform Security's program governance across 20 programs, 100+ engineering teams and 300+ distributed services, coordinated without direct authority
 - Established program management from the ground up in the cryptography group, which had none, and moved it to on-time delivery within 6 months
 - Defined the TPM operating model adopted across 10+ engineering orgs, covering intake, status, risk, dependency and escalation
-- Drove email domain verification controls with a very small engineering team, owning the customer communication needed to land a required control on an existing customer base, highest-risk accounts first
+- Drove domain verification controls with a very small engineering team, owning the customer communication needed to land a required control on an existing customer base, highest-risk accounts first
 - Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type and reporting to the board of directors
 - Ran Election Support readiness programs across several federal and international election cycles
 - Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services

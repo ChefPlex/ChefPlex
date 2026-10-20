@@ -4,6 +4,27 @@
 Platform Security | AI Governance | Infrastructure | Compliance  
 San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
 
+## What I've Delivered
+
+- **Encryption at platform scale:** drove encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ services at Salesforce
+- **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services
+- **A regulatory deadline met:** took the EU Digital Services Act program to go-live ahead of the February 2024 enforcement date, reporting to the board
+- **Program management where there was none:** built it in Salesforce's cryptography group, then defined the TPM operating model adopted across 10+ engineering orgs
+- **People:** led a 15+ TPM practice at Taos, owning reviews, compensation recommendations and escalations
+- **Audits carried through:** at Talamel, a signed SOC 2 Type I, a delivered Type II attestation, and a stalled HIPAA effort completed
+
+## Start Here
+
+- [Lessons from large-scale encryption programs](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md): what actually stalled a 300-service program, and what moved it
+- [Building program management where there was none](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md): the cryptography group, from no process to on-time delivery
+- [Rescuing work that is off track](https://github.com/ChefPlex/tpm-templates/blob/main/rescuing-work-that-is-off-track.md): baseline, negotiate, rebaseline
+- [Building the TPM function](https://github.com/ChefPlex/tpm-templates/blob/main/building-the-tpm-function.md): hiring, onboarding and running a TPM team
+- [Program status reporting framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/program-status-reporting-framework.md): status an executive can act on
+- [agent-guardrails](https://github.com/ChefPlex/agent-guardrails): three checks for AI agent workflows, and what each cannot catch
+- [**I need to…**](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md): a reading path for your situation, across every repo
+
+## About Me
+
 I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, compliance, and large-scale program execution.
 
 I led platform security programs spanning 100+ engineering teams across AWS and GCP. That work included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real. Before that, more than ten years of infrastructure delivery: data centers, server and storage migrations, and network rollouts.
@@ -79,6 +100,7 @@ Not sure where to start? [**I need to…**](https://github.com/ChefPlex/tpm-temp
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
 | [security-program-playbooks](https://github.com/ChefPlex/security-program-playbooks) | What I'd hand a TPM taking over an encryption or compliance program in their first week. Includes [enterprise RAG security](https://github.com/ChefPlex/security-program-playbooks/tree/main/enterprise-rag-security) - trust boundary, permission-aware retrieval, and a prompt injection threat model |
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | The documents a program actually needs, kickoff to close-out, with notes on how each one usually fails |
+| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living, including the project management course I wrote and taught at Year Up. Slides, handouts, and what actually landed |
 | [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The tools with code I kept using after the program ended, including the Slack crawler |
 
 Outside the TPM world:
@@ -87,7 +109,6 @@ Outside the TPM world:
 |:---|:---|
 | [food-wine-farms](https://github.com/ChefPlex/food-wine-farms) | Regional food and wine guides, built and shipped solo. Chef-curated, not scraped |
 | [GlassART](https://github.com/ChefPlex/GlassART) | The shop table at Public Glass, written down. The finished work is at artglasssf.com |
-| [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living. Slides, handouts, and what actually landed |
 
 ## Career Snapshot
 

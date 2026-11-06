@@ -179,7 +179,8 @@ April 2018 to August 2026
 
 ## Training
 
-SANS LDR553, Cyber Incident Management ([course notes](https://github.com/ChefPlex/learning-notes/blob/main/sans-ldr553-course-notes.md))
+- **SANS Security West 2026**, live training, [The SANS Institute](https://www.sans.org) ([verified badge](https://www.credly.com/badges/95e7a1e5-6826-4a8c-affa-47c2296189f2/public_url))
+- **SANS LDR553, Cyber Incident Management** ([course notes](https://github.com/ChefPlex/learning-notes/blob/main/sans-ldr553-course-notes.md))
 
 ## Currently Thinking About
 

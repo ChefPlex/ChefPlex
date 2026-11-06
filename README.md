@@ -172,7 +172,10 @@ April 2018 to August 2026
 
 ## Certifications
 
-CISM &nbsp;|&nbsp; PMP &nbsp;|&nbsp; ITIL &nbsp;|&nbsp; CSM
+- **Certified Information Security Manager (CISM)**, [ISACA](https://www.isaca.org/credentialing/cism) ([verified credential](https://www.credly.com/badges/c365d4a6-3195-4ee2-b374-49930f47ad48/public_url))
+- **Project Management Professional (PMP)**, [Project Management Institute](https://www.pmi.org/certifications/project-management-pmp)
+- **ITIL Foundation Certificate in IT Service Management**, [AXELOS](https://www.axelos.com/certifications/itil-service-management)
+- **Certified ScrumMaster (CSM)**, [Scrum Alliance](https://www.scrumalliance.org/get-certified/scrum-master-track/certified-scrummaster) ([member profile](https://www.scrumalliance.org/community/profile/ewhite25))
 
 ## Training
 

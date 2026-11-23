@@ -150,6 +150,7 @@ April 2018 to August 2026
 
 - Led the Technical Program Manager (TPM) practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
+- Brought three Blue Shield infrastructure projects in on time; the largest was $7.6M
 - Ran a two-year HIPAA and PCI compliance program for City National Bank, to the client's own release calendar and change control
 - Supported clients including Salesforce, City National Bank, UCSF, Dolby, Restoration Hardware, and Blue Shield, and owned the dates without owning any of the orgs: each client ran its own release calendar, change control and definition of done
 - Security Lead and Project Manager at Kabam (2011): baselined technical operations first, then ran a whole-company security review as a program, wrote the security policy and a 22-page incident response plan, and moved www.kabam.com to HTTPS
@@ -164,13 +165,15 @@ April 2018 to August 2026
 - Delivered a $2M+ data center storage modernization across SAN infrastructure and fabric upgrades (Brocade, EMC VMAX/VPLEX) in two data centers
 - Delivered $1.5M in enterprise network upgrades supporting a 1,100-store electronic pharmacy rollout
 - Integrated Safeway.com infrastructure into the primary and disaster-recovery data centers
+- Ran the Active Directory upgrade across 41 domain controllers, retiring 28 along the way
 
 ### Bar Association of San Francisco
 
 **Director of Information Technology**  
 2005 to 2009
 
-- Led enterprise IT operations, infrastructure architecture, vendor management, and strategic technology planning, managing a team of 3
+- Led enterprise IT operations, infrastructure architecture, vendor management, and strategic technology planning for 8,000 members, on a $1M annual budget with a team of 3
+- Rebuilt the membership application: data entry got 25% faster, and it saved $100,000 a year
 
 ## Certifications
 

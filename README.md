@@ -1,8 +1,9 @@
 # Eric White | PMP | CISM | ITIL | CSM
 
-**Director-level Technical Program Manager (TPM)**  
-Platform Security | AI Governance | Infrastructure | Compliance  
-San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)
+**Director, Technical Program Management**  
+TPM for AI, Cloud Infrastructure & Security  
+San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [LinkedIn](https://www.linkedin.com/in/edwhite)  
+Open to: Remote · Hybrid · SF Bay Area (on-site)
 
 ## What I've Delivered
 
@@ -25,11 +26,11 @@ San Francisco Bay Area | [edwhite@gmail.com](mailto:edwhite@gmail.com) | [Linked
 
 ## About Me
 
-I'm a TPM who sits at the intersection of security engineering, cloud infrastructure, compliance, and large-scale program execution.
+I run technical delivery. When a company doesn't have a delivery function, I build it.
 
 I led platform security programs spanning 100+ engineering teams across AWS and GCP. That work included encryption modernization, PKI, TLS hardening, HSM key lifecycle, regulatory execution, and the slow practical work of keeping large groups aligned when the stakes are real. Before that, more than ten years of infrastructure delivery: data centers, server and storage migrations, and network rollouts.
 
-I'm not a software engineer. I do speak the language fluently enough to challenge architectural decisions, write a useful runbook, ask the awkward risk question, and keep engineering, security, compliance, and leadership pointed at the same outcome.
+With AI, I now build what I used to manage, taking an idea all the way to something people use: a working prototype on my own, or production with a team. I also speak the language fluently enough to challenge architectural decisions, write a useful runbook, ask the awkward risk question, and keep engineering, security, compliance, and leadership pointed at the same outcome.
 
 The rest of the time: glass artist, chef, wine person, cat herder.
 
@@ -118,6 +119,7 @@ Outside the TPM world:
 **VP of Technical Execution and Innovation (Fractional)**  
 June 2026 to present
 
+- Directs product execution with the CEO and CTO, from commitment to release
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
 - Ran parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor: took over a SOC 2 Type I already under way and carried it to a signed report, ran the Type II observation window from its June 1 start to a completed audit in September and a delivered attestation with no exceptions, and recovered and completed a stalled HIPAA effort that had no owner
 - Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), surfacing and prioritizing 21 confirmed and 5 plausible issues

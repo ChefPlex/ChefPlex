@@ -9,7 +9,7 @@ Open to: Remote · Hybrid · SF Bay Area (on-site)
 
 - **Encryption at platform scale:** drove encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ services at Salesforce ([what stalled it, and what moved it](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md))
 - **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services
-- **A regulatory deadline met:** took the EU Digital Services Act program to go-live ahead of the February 2024 enforcement date, reporting to the board
+- **A regulatory deadline met:** took the EU Digital Services Act program to go-live ahead of the February 2024 enforcement date, with status to executive leadership and briefings to the board three or four times a year
 - **Program management where there was none:** built it in Salesforce's cryptography group ([how](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md)), then defined the TPM operating model adopted across 10+ engineering orgs
 - **People:** led a 15+ TPM practice at Taos, owning reviews, compensation recommendations and escalations
 - **Audits carried through:** at Talamel, a signed SOC 2 Type I and a delivered Type II attestation, both with no exceptions, and a stalled HIPAA effort completed
@@ -141,7 +141,7 @@ April 2018 to August 2026
 - Established program management from the ground up in the cryptography group, which had none, and moved it to on-time delivery within 6 months
 - Defined the TPM operating model adopted across 10+ engineering orgs, covering intake, status, risk, dependency and escalation
 - Drove domain verification controls with a very small engineering team, owning the customer communication needed to land a required control on an existing customer base, highest-risk accounts first
-- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type, owning transparency reporting to the EU, and reporting to the board of directors
+- Directed the EU Digital Services Act (DSA) program to go-live ahead of the February 2024 enforcement deadline, holding response SLAs of 24 hours to 7 days by item type, owning transparency reporting to the EU, with status to executive leadership and the same briefings to the board of directors three or four times a year, on progress and on how the company would meet its ongoing DSA obligations
 - Ran Election Support readiness programs across several federal and international election cycles
 - Cut mean time to remediate (MTTR) for critical vulnerabilities from ~30 days to ~10 across 300+ platform services
 - Ran certificate issuance and secure key lifecycle programs on enterprise HSM infrastructure for a global customer base of 150,000+ organizations

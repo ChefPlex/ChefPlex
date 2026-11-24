@@ -8,7 +8,7 @@ Open to: Remote · Hybrid · SF Bay Area (on-site)
 ## What I've Delivered
 
 - **Encryption at platform scale:** drove encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ services at Salesforce ([what stalled it, and what moved it](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md))
-- **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services ([the runbook](https://github.com/ChefPlex/security-program-playbooks/blob/main/vulnerability-remediation-runbook.md))
+- **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services
 - **A regulatory deadline met:** took the EU Digital Services Act program to go-live ahead of the February 2024 enforcement date, reporting to the board
 - **Program management where there was none:** built it in Salesforce's cryptography group ([how](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md)), then defined the TPM operating model adopted across 10+ engineering orgs
 - **People:** led a 15+ TPM practice at Taos, owning reviews, compensation recommendations and escalations

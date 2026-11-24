@@ -7,21 +7,26 @@ Open to: Remote · Hybrid · SF Bay Area (on-site)
 
 ## What I've Delivered
 
-- **Encryption at platform scale:** drove encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ services at Salesforce
-- **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services
+- **Encryption at platform scale:** drove encryption coverage from 10% to 80%+ across 100+ engineering teams and 300+ services at Salesforce ([what stalled it, and what moved it](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md))
+- **Faster fixes:** cut mean time to remediate critical vulnerabilities from ~30 days to ~10 across 300+ platform services ([the runbook](https://github.com/ChefPlex/security-program-playbooks/blob/main/vulnerability-remediation-runbook.md))
 - **A regulatory deadline met:** took the EU Digital Services Act program to go-live ahead of the February 2024 enforcement date, reporting to the board
-- **Program management where there was none:** built it in Salesforce's cryptography group, then defined the TPM operating model adopted across 10+ engineering orgs
+- **Program management where there was none:** built it in Salesforce's cryptography group ([how](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md)), then defined the TPM operating model adopted across 10+ engineering orgs
 - **People:** led a 15+ TPM practice at Taos, owning reviews, compensation recommendations and escalations
 - **Audits carried through:** at Talamel, a signed SOC 2 Type I and a delivered Type II attestation, both with no exceptions, and a stalled HIPAA effort completed
 
 ## Start Here
 
-- [Lessons from large-scale encryption programs](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md): what actually stalled a 300-service program, and what moved it
-- [Building program management where there was none](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md): the cryptography group, from no process to on-time delivery
+If you read three things, read these. They are first-hand: what happened, what I got wrong, and what I changed.
+
+1. [Lessons from large-scale encryption programs](https://github.com/ChefPlex/learning-notes/blob/main/lessons-from-large-scale-encryption-programs.md): what actually stalled a 300-service program, and what moved it
+2. [Building program management where there was none](https://github.com/ChefPlex/learning-notes/blob/main/building-program-management-where-there-was-none.md): the cryptography group, from no process to on-time delivery
+3. [agent-guardrails](https://github.com/ChefPlex/agent-guardrails): three checks for AI agent workflows, tested, and what each cannot catch
+
+Then, by what you need:
+
 - [Rescuing work that is off track](https://github.com/ChefPlex/tpm-templates/blob/main/rescuing-work-that-is-off-track.md): baseline, negotiate, rebaseline
 - [Building the TPM function](https://github.com/ChefPlex/tpm-templates/blob/main/building-the-tpm-function.md): hiring and placing your first TPMs
 - [Program status reporting framework](https://github.com/ChefPlex/program-reporting-frameworks/blob/main/program-status-reporting-framework.md): status an executive can act on
-- [agent-guardrails](https://github.com/ChefPlex/agent-guardrails): three checks for AI agent workflows, and what each cannot catch
 - [**I need to…**](https://github.com/ChefPlex/tpm-templates/blob/main/PORTFOLIO-GUIDE.md): a reading path for your situation, across every repo
 
 ## About Me
@@ -62,7 +67,7 @@ I run my own agent stack. Not a chatbot I ask things, a set of scheduled jobs th
 
 The interesting part is not the agents. It is the checking around them.
 
-Anything an agent generates for me passes deterministic checks before I trust it. Banned phrases, house style, whether a claim can be traced to a source, whether a PDF actually parses the way an applicant tracking system will read it. Those checks are plain code with tests, not more AI. When an AI-assisted workflow goes wrong it usually goes wrong confidently, and a second model agreeing with the first is not verification.
+Before I trust what an agent generates, it passes the deterministic checks that fit that workflow: banned phrases, house style, whether a claim can be traced to a source, whether a PDF actually parses the way an applicant tracking system will read it. Those checks are plain code with tests, not more AI, and each one covers a named failure, not correctness as a whole. When an AI-assisted workflow goes wrong it usually goes wrong confidently, and a second model agreeing with the first is not verification.
 
 A few working rules that came out of getting this wrong:
 
@@ -95,7 +100,7 @@ Not sure where to start? [**I need to…**](https://github.com/ChefPlex/tpm-temp
 | Repo | What It Is |
 |:---|:---|
 | [agent-guardrails](https://github.com/ChefPlex/agent-guardrails) | Three checks for AI agent workflows that refuse to report a pass they did not earn. A prompt-injection alarm that says plainly it is an alarm and not a defense, a way to catch what a coverage check never counted, and a wrapper around an eval runner (promptfoo) that reports the spread instead of one number |
-| [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier AI execution maturity model, from human-only to AI-only, for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype. Also the [enterprise RAG program](https://github.com/ChefPlex/ai-automations/tree/main/ai-programs/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
+| [ai-automations](https://github.com/ChefPlex/ai-automations) | Prompts I actually use, and the frameworks for deciding how much AI belongs in a piece of work at all. Includes [frameworks](https://github.com/ChefPlex/ai-automations/tree/main/frameworks) - a 5-tier AI execution maturity model, from human-only to AI-only, where maturity means the right tier rather than the highest, for deciding how much AI belongs in a given activity, the method for mapping a company's work against it, a 19-role 8-phase multi-agent delivery framework, and a tool decision matrix sequenced by return rather than hype. Also the [enterprise RAG program](https://github.com/ChefPlex/ai-automations/tree/main/ai-programs/enterprise-rag-program) - running retrieval as a program rather than an AI experiment |
 | [infrastructure-program-playbooks](https://github.com/ChefPlex/infrastructure-program-playbooks) | What I'd hand a TPM taking over a data center, migration, directory or network program in their first week |
 | [learning-notes](https://github.com/ChefPlex/learning-notes) | A public notebook. Some of it will turn out to be wrong, which is rather the point |
 | [program-reporting-frameworks](https://github.com/ChefPlex/program-reporting-frameworks) | How to write a status report an executive can act on, and a steering deck that forces a decision |
@@ -103,7 +108,7 @@ Not sure where to start? [**I need to…**](https://github.com/ChefPlex/tpm-temp
 | [tpm-lab](https://github.com/ChefPlex/tpm-lab) | Where I work on new projects and new frameworks for running them, and on how to get them done. First drafts: a post-quantum cryptography migration across a large enterprise, what one more change does to the finish date and the cost, and optimizing a PMO the business wants more from |
 | [tpm-templates](https://github.com/ChefPlex/tpm-templates) | The documents a program actually needs, kickoff to close-out, with notes on how each one usually fails |
 | [teaching-notes](https://github.com/ChefPlex/teaching-notes) | Explaining technical things to people who don't do them for a living, including the project management course I wrote and taught at Year Up. Slides, handouts, and what actually landed |
-| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The tools with code I kept using after the program ended, including the Slack crawler |
+| [tpm-toolbox](https://github.com/ChefPlex/tpm-toolbox) | The tools I kept using after the program ended: a tested status-report generator that records which Slack sources it read, and the Slack crawler skill |
 
 Outside the TPM world:
 
@@ -117,13 +122,13 @@ Outside the TPM world:
 ### Talamel Health Technologies
 
 **VP of Technical Execution and Innovation (Fractional)**  
-June 2026 to present
+June 2026 to present (part-time alongside my last months at Salesforce, which ended in August 2026)
 
 - Directs product execution with the CEO and CTO, from commitment to release
 - Designed a 5-tier AI governance framework for a healthcare AI startup, covering a PHI-aware tool decision matrix and a compliance-sequenced adoption roadmap across HIPAA, SOC 2 Type I/II, and BAA chain logic
 - Ran parallel SOC 2 and HIPAA audit cycles end to end, from findings through to working directly with the external auditor: took over a SOC 2 Type I already under way and carried it to a signed report, ran the Type II observation window from its June 1 start to a completed audit in September and a delivered attestation with no exceptions, and recovered and completed a stalled HIPAA effort that had no owner
 - Led a four-lens codebase audit of the flagship product (architecture, security, backend, QA), surfacing and prioritizing 21 confirmed and 5 plausible issues
-- Independently built a 19-role, 8-phase multi-agent AI software delivery framework with tier-selection logic and full audit trails; its QA roles are in use at the startup, auditing requirements-to-code traceability across three systems
+- Put AI QA agents into use at the startup, auditing requirements-to-code traceability across three systems; they come from a multi-agent software delivery framework I built on my own (19 roles, 8 phases, tier-selection logic, audit trails)
 
 ### Salesforce
 
@@ -146,7 +151,7 @@ April 2018 to August 2026
 ### Taos, an IBM Company
 
 **Senior Technical Program Manager (TPM) / Practice Lead**  
-2011 to 2018
+2011 to 2018, with a 2011 to 2013 stint at Restoration Hardware (below)
 
 - Led the Technical Program Manager (TPM) practice: 15+ senior consultant TPMs across multiple clients, owning annual reviews, compensation recommendations and the escalation path
 - Managed a $10M+ portfolio across HIPAA, PCI, and SOX programs
